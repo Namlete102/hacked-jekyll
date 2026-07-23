@@ -1,0 +1,8 @@
+@misc{nguyen2026gioithieu,
+  author       = {Nguyễn, Lê Nam},
+  title        = {Giới thiệu cách tính định thức của Leibniz},
+  year         = {2026},
+  month        = {7},
+  day          = {24},
+  note         = {Xuất bản ngày 24 tháng 07 năm 2026}
+}
