@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["https://namlete102.github.io/Namleteblog.github.io/"]
 
   spec.summary       = "Jekyll microtheme that looks like JSON"
-  spec.homepage      = "https://namlete102.github.io/arXiv-namlete/"
+  spec.homepage      = "hhttps://namlete102.github.io/hacked-jekyll/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
